@@ -1,0 +1,8 @@
+name: GenericSMP
+version: 1.0.0
+main: net.cybercake.genericsmp.Main
+api-version: 1.19
+prefix: GenericSMP
+authors: [ CyberedCake ]
+description: Allows you to do generic things on a Minecraft SMP
+website: https://github.com/CyberedCake/GenericSMP
